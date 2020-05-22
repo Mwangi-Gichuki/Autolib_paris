@@ -29,6 +29,8 @@ The objective of the analysis is to determine the best time to schedule the upda
 
 ## Getting Started
 
+Load on the data to python from the respective .csv files.
+Load Pandas and numpy
 
 
 
